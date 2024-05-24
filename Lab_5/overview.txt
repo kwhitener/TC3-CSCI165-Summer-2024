@@ -1,0 +1,17 @@
+During this week you will complete the following
+	~ Lab Assignment on simple class design in JavaThe Unified Modeling Language (UML) and Unit Testing with JUnit
+
+This week we will begin our study of the major concepts of object oriented programming. These include
+
+    ~ Encapsulation
+    ~ Access modifiers (public and private)
+    ~ Instance vs. Class features (static and non-static)
+    ~ attributes and behaviors (instance variables and methods)
+    ~ Instance methods and contructors
+    ~ Method and constructor overloading
+    ~ The "this" keyword
+    ~ Class expectations (toString and equals methods)
+
+You will also gain some experience using the JUnit testing framework and the TestRunner VS Code extension. 
+
+We will be strictly following strong testing procedures from here on out.

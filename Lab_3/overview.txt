@@ -1,0 +1,47 @@
+During this lab you will complete the following
+	~ Lab Assignment on File reading, basic looping and String manipulation
+	~ The lab will have some graphical components that will be given to you
+	~ Explanation for how to work with the graphics are in the lab document
+
+New Topics: During this week we will be covering the following new topics
+	~ The Java API
+	~ Creating objects from Java library classes
+	~ Reading and writing file data
+	~ While and for loops
+	~ Iterating through a sequence
+
+Reading: Strongly recommended
+	~ The document Input_and_Output.pdf covers all the file reading and writing
+	~ The document Control_Flow.pdf covers comparisons and looping. You don't need to read this entire
+	  thing because we will also be discussing it next week.
+
+Lab_3
+├── code
+│   ├── cipher
+│   │   ├── Authenticate.java
+│   │   ├── CaesarCipher.java
+│   │   ├── clear_text_credentials.txt
+│   │   ├── enciphered_credentials.txt
+│   │   └── Main.java
+│   ├── combine_two_files
+│   │   ├── CombineTwoFiles.java
+│   │   ├── ips.txt
+│   │   └── macs.txt
+│   ├── load_words_into_ArrayList
+│   │   ├── EnglishWords.txt
+│   │   └── LoadArrayList.java
+│   └── ScannerTest.java
+├── lab
+│   ├── API_Specification
+│   ├── EnglishWords.txt
+│   ├── SpellingBeeEventListener.java
+│   ├── SpellingBeeGraphics.java
+│   ├── SpellingBee.java
+│   └── SpellingBeeLab.pdf
+├── overview.txt
+└── reading
+    ├── Flow_Control.pdf
+    └── Input_and_Output.pdf
+
+17 directories, 65 files
+

@@ -1,0 +1,34 @@
+Week Four Overview
+
+New Topics: During this week we will be covering the following new topics
+	~ Java String implementation and the equals method
+	~ The Switch statement
+	~ File Reading/Writing
+
+Reading:
+	~ The document Control_Flow.pdf covers the strange issues that exist when dealing with String
+		objects and their equality
+
+Week_4
+├── code
+│   ├── ComparisonDemo2.java
+│   ├── ComparisonDemo.java
+│   ├── file_writing
+│   │   ├── BufferedWriterDemo.java
+│   │   └── FileWriterDemo.java
+│   ├── ip_logs
+│   │   ├── ip_logs.txt
+│   │   └── ScannerFileDemo.java
+│   ├── StringEquality.java
+│   ├── SwitchDemo.java
+│   ├── SwitchNoBreakDemo.java
+│   └── TernaryOperatorDemo.java
+├── lab
+│   ├── galadriel.txt
+│   ├── obi.txt
+│   └── SubstitutionCiphers.pdf
+├── overview.txt
+└── reading
+    └── Flow_Control.pdf
+
+6 directories, 15 files

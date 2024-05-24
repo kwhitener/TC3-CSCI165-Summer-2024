@@ -1,0 +1,18 @@
+Overview
+========
+
+This is your first lab assignment.
+You will begin by installing, configuring and testing a Java installation.
+
+General Course Repo Structure: Folders
+
+	~ lab:		you will find all lab related documents here
+	~ code:		Java source code examples for you to study. 
+			Some of these may be used for lecture demos
+			This folder may be empty at times (or not present)
+	~ reading:	relevant reading material in the reading folder
+	
+For each of these assignments you should do the following
+	~ Watch the class recording posted in Brightspace
+	~ Read the PDF documents in the "reading" folder
+	~ Review the code samples

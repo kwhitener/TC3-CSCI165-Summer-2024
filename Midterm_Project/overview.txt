@@ -1,0 +1,32 @@
+This week begins work on the midterm project. The project will be due Sunday 3/24/2024 by midnight.
+	~ We will have multiple lab days to focus on this project
+	~ Read the instructions thoroughly and ask questions
+	~ Do not procrastinate
+	
+The midterm exam will be on Wednesday 3/20/2024. Everyone is expected to take it in class
+unless you have made prior arrangements with me.
+	
+Repo Examples
+~ Black Bears: Matrix creation and traversal, row/column major order
+	
+	black_bears
+	├── Black_Bear_Problem_Setup.pdf
+	├── black_bear_sightings.txt
+	└── BlackBears.java
+
+	1 directory, 3 files
+
+~ Graphics Examples: Use of JPanel, simple 2D Graphics and animation
+
+	graphics_examples
+	├── bouncing_ball -> shows simple animation using a Timer and JPanel
+	│   ├── BallPanel.java
+	│   └── Driver.java
+	└── matrix_of_rgb -> show simple 2D graphics with a JPanel
+    	    ├── BitMapper.java
+    	    └── pixel_data.txt
+
+	3 directories, 4 files
+
+
+Reading/Tutorial Material: https://docs.oracle.com/javase/tutorial/2d/basic2d/index.html

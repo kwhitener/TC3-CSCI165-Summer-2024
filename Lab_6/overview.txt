@@ -1,0 +1,12 @@
+
+Topics
+	~ Problem solving an interesting unit test scenario
+	~ Application containing multiple objects/source files
+	~ equals() methods for classes that contain objects
+	~ static vs instance ownership
+	~ VS Code source action
+	~ UML aggregation/interaction diagramming
+	~ Draw.io integration
+	
+We will continue to work with the files from last topic
+
