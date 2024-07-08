@@ -1,0 +1,59 @@
+This week we will continue working with inheritance and composition with a focus on polymorphism.
+
+Dynamic dispatch, also known as late binding or runtime polymorphism, is a mechanism used in object-oriented programming 
+languages to determine which implementation of a method to execute at runtime, based on the actual type of the object 
+rather than the declared type of the reference to the object.
+
+Here's how dynamic dispatch typically works:
+
+~ 	Inheritance and Polymorphism: Dynamic dispatch relies on the principles of inheritance and polymorphism. 
+	Inheritance allows classes to inherit attributes and methods from their parent classes, while polymorphism 
+	enables objects of different classes to be treated as objects of a common superclass.
+
+~	Method Overriding: Dynamic dispatch occurs when a method in a subclass overrides a method with the same signature 
+	in its superclass. This means that the subclass provides its own implementation of the method, potentially 
+	modifying or extending the behavior defined in the superclass.
+
+~	Base Class Reference: When a method is invoked on an object through a reference variable, the decision of which 
+	method implementation to execute is made at runtime based on the actual type of the object, not the declared 
+	type of the reference variable.
+
+~	Runtime Type Identification (RTTI): To determine the runtime type of an object and select the appropriate method 
+	implementation, dynamic dispatch relies on runtime type identification mechanisms provided by the programming 
+	language runtime environment.
+
+~	Example: Suppose we have a superclass Shape with a method draw(), and two subclasses Circle and Square that 
+	override the draw() method with their own implementations. If we have a reference variable of type Shape 
+	that points to either a Circle object or a Square object, dynamic dispatch ensures that the appropriate draw() 
+	method of the respective subclass is called when invoking draw() on the reference variable.
+
+Dynamic dispatch is a powerful feature of object-oriented programming languages that promotes code reuse and 
+facilitates modular design. It's commonly used in languages like Java, C++, Python, and C#.
+
+Week_12
+├── code
+│   ├── CreditCardSale.java
+│   ├── DiscountSale.java
+│   ├── LateBindingDemo.java
+│   ├── sale.drawio
+│   └── Sale.java
+├── lab
+│   ├── Account_Inheritance_Lab.odt
+│   ├── Account_Inheritance_Lab.pdf
+│   ├── source
+│   │   ├── Account.java
+│   │   ├── Date.java
+│   │   ├── Employee.java
+│   │   └── Person.java
+│   ├── uml
+│   │   └── Account.drawio
+│   └── unit_tests
+│       ├── CustomerTests.java
+│       ├── DateTest.java
+│       └── EmployeeTests.java
+├── overview.txt
+└── reading
+    └── Polymorphism.pdf
+
+7 directories, 17 files
+

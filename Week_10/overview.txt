@@ -1,0 +1,41 @@
+This week we will focus on the object oriented design pattern "Composition and Aggregation".
+We have informally worked with this approach in other labs but will formalize our study
+with some important security concepts. Designing applications with composition is easy 
+enough, but there are some crucial "under the hood" concepts that do require some dedicated attention.
+
+In the lab you will revisit the beloved CS Food Truck, making it more object oriented
+
+Be sure to do the reading and study the examples
+
+Week_10
+├── code
+│   ├── composition_demo
+│   │   ├── Composition_Lecture_Demo.pdf
+│   │   ├── Date.java
+│   │   ├── Faculty.java
+│   │   ├── Student.java
+│   │   └── Student.jpg
+│   └── privacy_protection_cloning
+│       ├── cloning
+│       │   ├── Date.java
+│       │   ├── Employee.java
+│       │   ├── PrivacyLeakDriver.java
+│       │   └── Tests.java
+│       └── Employee
+│           ├── Date.java
+│           ├── Driver.java
+│           ├── Employee.java
+│           └── PrivacyLeakDriver.java
+├── lab
+│   ├── DateClass.drawio
+│   ├── Date.java
+│   ├── FoodTruck_Composition.pdf
+│   ├── FoodTruck.drawio
+│   ├── OrderItemTests.java
+│   └── products.txt
+├── overview.txt
+└── reading
+    └── OOD_Composition.pdf
+
+8 directories, 21 files
+

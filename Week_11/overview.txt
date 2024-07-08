@@ -1,0 +1,40 @@
+During this week we will begin our study of the Object Oriented design pattern: Inheritance
+This will include the following concepts
+
+    ~ Code reuse using inheritance
+    ~ "has a" vs "is a" associations
+    ~ Extending classes (super class and sub class)
+    ~ Inheritance Hierarchies and classes of multiple types
+    ~ Type casting objects in an inheritance hierarchy: implicit and explicit
+    ~ Method over riding and the @Override annotation
+    ~ These concepts form the functional basis for polymorphism
+
+Week_11
+├── code
+│   ├── doctor_patient
+│   │   ├── Address.java
+│   │   ├── Date.java
+│   │   ├── Doctor.java
+│   │   ├── Driver.java
+│   │   ├── Employee.java
+│   │   └── Person.java
+│   ├── inheritance_demo_ABC
+│   │   ├── A.java
+│   │   ├── DummyDriver.java
+│   │   └── Dummy.java
+│   └── person
+│       ├── Date.java
+│       ├── Driver.java
+│       ├── PersonHierarchy.drawio
+│       ├── Person.java
+│       ├── Staff.java
+│       ├── StaffTest.java
+│       └── Student.java
+├── lab
+│   └── CSCI165.Inheritance.Lab.pdf
+├── overview.txt
+└── reading
+    └── Inheritance.pdf
+
+7 directories, 19 files
+
